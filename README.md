@@ -3,4 +3,4 @@ EN: This program allows you to parse data from the Avito website in the search s
 
 RU: Эта программа позволяет парсить данные с сайта авито в разделе поиска аренды квартир в городе Ростов-на-Дону. При желании город, как и условия поиска, можно изменить. Для работы этой программы использовалось в основном две библиотеки: это BeautifulSoup4 и Requests. 
 
-Notice: if programm doesn`t works on you PC try any of VPN`s
+Notice: if programm doesnt works on you PC try any of VPN`s
